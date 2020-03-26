@@ -1,0 +1,32 @@
+{
+  "name": "freezerup-cli",
+  "version": "1.0.0",
+  "description": "微信小程序cli",
+  "main": "index.js",
+  "bin": {
+    "f-cli": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freezerup/freezerup-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freezerup/freezerup-cli/issues"
+  },
+  "homepage": "https://github.com/freezerup/freezerup-cli#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "co-prompt": "1.0.0",
+    "commander": "^5.0.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^7.1.0",
+    "ncp": "^2.0.0",
+    "ora": "^4.0.3"
+  }
+}

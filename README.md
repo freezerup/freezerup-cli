@@ -1,1 +1,1 @@
-# kyle-cli
+# freezerup-cli
